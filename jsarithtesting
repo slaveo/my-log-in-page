@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title></title>
+   
+  </head>
+<body>
+<p id="demo"> what is your name</p>
+<button onclick="myFunction()">
+Try it</button>
+
+ <script>
+function myFunction() {
+var x=200/12;
+document.write(x);
+ }
+
+</script>
+</body>
+</html>
